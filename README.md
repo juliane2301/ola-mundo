@@ -57,9 +57,9 @@ Exemplo de documentação técnica de um sistema web.
 
 ## 📬 Contato
 
-📧 juliane.seuemail@gmail.com  
-📱 (46) 9xxxx-xxxx  
-🌐 [linkedin.com/in/julianemachado](https://linkedin.com/in/julianemachado) *(edite se tiver)*
+📧 julianeee.oliveira23@gmail.com 
+📱 (46) 999304669
+🌐 [linkedin.com/in/julianemachado]http://linkedin.com/in/juliane-machado-64a113236
 
 ---
 
